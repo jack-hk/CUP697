@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9796ea185c8fa1047884f589f573c0ac, type: 3}
+  m_Name: 0_JunkTank
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: 0
+  <Name>k__BackingField: Junk Tank
+  <Sprite>k__BackingField: {fileID: 21300000, guid: e49e459953d66b844be552a9e84eb26f, type: 3}
+  <PreviewSprite>k__BackingField: {fileID: 21300000, guid: c70e0b335d3687e4ebb337d992d08a77, type: 3}
+  <HitPoints>k__BackingField: 200
+  <ForceMultiplier>k__BackingField: 1
